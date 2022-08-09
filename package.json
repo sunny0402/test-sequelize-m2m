@@ -1,0 +1,17 @@
+{
+  "name": "test_sequelize_m2m",
+  "version": "1.0.0",
+  "description": "Many to many relationship for users and roles.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  }
+}
